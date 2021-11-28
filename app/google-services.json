@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154079081020",
+    "project_id": "autenticaciongds0343",
+    "storage_bucket": "autenticaciongds0343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154079081020:android:3e4636ca1bc69317d9c939",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.autenticacingds0343"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154079081020-cahe588qhqnjgolk1p6h7a9rfhu7eo63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM27wj4lzrZp7iR0lnAntw7ruuTKq0JvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154079081020-cahe588qhqnjgolk1p6h7a9rfhu7eo63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
